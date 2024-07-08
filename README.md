@@ -10,7 +10,7 @@ Customer churn is a critical metric for telco companies as it directly impacts r
 
 DATASET
 
-The dataset used in this project contains information about customers and whether they churned or not. It includes features such as services subscribed to, tenure, and monthly charges.
+The dataset used in this project contains information about customers and whether they churned or not. It includes features such as services subscribed to, tenure, monthly charges and more.
 
 METHODOLOGY 
 
